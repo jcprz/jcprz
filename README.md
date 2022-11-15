@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**jcprz/jcprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Name's Julio Perez
+* 💻 I'm really passionate about the IT world, and currently about SRE and its DevOps methodologies!
+* 🎓 Currently putting my focus on GCP knowledge + GitHub Actions as CI/CD solution
+* 🤝 I'm lokking to connect and incease my skills with like minded warriors.
 
-Here are some ideas to get you started:
+You can check out my LinkedIn at https://www.linkedin.com/in/jcprz/ and my Medium blog at https://blog.jcprz.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* CSP: GCP and AWS
+* IaC: Terraform
+* Containerization and Orchestration: Docker and Kubernetes
+* OS: Linux and Unix
+* PLs: Python, Golang and Bash scripting
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jcprz&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcprz)](https://github.com/anuraghazra/github-readme-stats)
